@@ -1,0 +1,15 @@
+C:\Обучение\C#\Seminars\Homework5\bin\Debug\net6.0\Homework5.exe
+C:\Обучение\C#\Seminars\Homework5\bin\Debug\net6.0\Homework5.deps.json
+C:\Обучение\C#\Seminars\Homework5\bin\Debug\net6.0\Homework5.runtimeconfig.json
+C:\Обучение\C#\Seminars\Homework5\bin\Debug\net6.0\Homework5.dll
+C:\Обучение\C#\Seminars\Homework5\bin\Debug\net6.0\Homework5.pdb
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.csproj.AssemblyReference.cache
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.AssemblyInfoInputs.cache
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.AssemblyInfo.cs
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.csproj.CoreCompileInputs.cache
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.dll
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\refint\Homework5.dll
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.pdb
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\Homework5.genruntimeconfig.cache
+C:\Обучение\C#\Seminars\Homework5\obj\Debug\net6.0\ref\Homework5.dll
